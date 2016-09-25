@@ -6,7 +6,10 @@
 	<meta http-equiv="X-Frame-Options" content="sameorigin">
 
 	<!-- CSS -->
+	<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
 	
+	<link rel="preload" href="http://conspiracyxo.github.io/jubilant/css/main.css" as="style" onload="this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="http://conspiracyxo.github.io/jubilant/css/main.css"></noscript>
        
 
 	<!--Favicon-->
@@ -42,7 +45,5 @@
 	</script>
 	{% endif %}
 	
-	<style>
-  {% asset_source 'layout.css' %}
-  </style>
+	
 </head>
