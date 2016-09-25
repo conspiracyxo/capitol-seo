@@ -8,8 +8,8 @@
 	<!-- CSS -->
 
 	
-	<link rel="preload" href="http://conspiracyxo.github.io/jubilant/css/main.css" as="style" onload="this.rel='stylesheet'">
-    <noscript><link rel="stylesheet" href="http://conspiracyxo.github.io/jubilant/css/main.css"></noscript>
+	<link rel="preload" href="/jubilant/css/main.css" as="style" onload="this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="/jubilant/css/main.css"></noscript>
        
 
 	<!--Favicon-->
