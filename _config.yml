@@ -72,3 +72,12 @@ sass:
   sass_dir: _sass
   style: :compressed
 gems: [jekyll-paginate]
+
+assets:
+  compress:
+    css: true
+  js_compressor:  uglifier
+  css_compressor: scss
+  features:
+    liquid: true
+
