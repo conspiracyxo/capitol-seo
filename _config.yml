@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "/jubilant" # the subpath of your site, e.g. /blog/
-url: "https://conspiracy.github.io" # the base hostname & protocol for your site
+url: "https://conspiracyxo.github.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
