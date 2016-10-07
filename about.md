@@ -5,8 +5,6 @@ permalink: /about/
 feature-img: "img/sample_feature_img_2.png"
 ---
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+Capitol-seo.com is a digital marketing consultant in the Sacramento area. We offer advice and services related to search engine optimization, page speed optimization, pay per click campaigns and social media marketing. If you are a small business or startup who is unsure how to enhance your digital presence, we can defintely help you out. Check out or blog and our services page to know more. If you have any questions or need immediate help, just contact us for more info. 
 
-Head over to the [theme's documentation](https://rohanchandra.github.io/project/type/) for much more information about Type Theme or to install this theme on your own Jekyll site.
-
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+Thanks for stopping by! 
