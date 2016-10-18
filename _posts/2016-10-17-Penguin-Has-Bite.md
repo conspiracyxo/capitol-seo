@@ -1,6 +1,7 @@
 ---
 published: false
 layout: post
+publish: true
 ---
 ## Penguin 4.0 Can Kill the Good with the Bad
 When Penguin 4.0 first came out (just a week or so ago) it looked promising. At first glance, it seemed like it could be a pretty fair update. First, it was said to be granular, meaning that only specific pages would be affected if link manipulation occurred. Second, it was said to devalue instead of demote like Panda does. Overall, it seemed like it might not be too bad. 
