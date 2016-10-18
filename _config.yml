@@ -37,7 +37,7 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "twitter"
+  twitter: "seocapitol"
   wordpress:
   youtube:
 
@@ -80,4 +80,3 @@ assets:
   css_compressor: scss
   features:
     liquid: true
-
