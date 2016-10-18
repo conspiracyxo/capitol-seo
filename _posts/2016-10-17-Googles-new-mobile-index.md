@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 # Google Will Soon Release a Primary Mobile Search Index
 
