@@ -1,6 +1,8 @@
 ---
-published: true
+layout: post
+title: The Dawn of the Mobile Search Index 
 ---
+
 ## Google Will Soon Release a Primary Mobile Search Index
 
 First of all, this is huge news! G plans on creating another whole search index that will be served to mobile devices. This means that there will be two versions of the tech giant’s search index: the old desktop version, and the new mobile version. Very soon we might began to see different search results depending on the medium you are using!
