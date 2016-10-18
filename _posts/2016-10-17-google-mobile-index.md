@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Google Will Soon Release a Primary Mobile Search Index
 First of all, this is huge news! G plans on creating another whole search index that will be served to mobile devices. This means that there will be two versions of the tech giant's search index: the old desktop version, and the new mobile version. Very soon we might began to see different search results depending on the medium you are using! 
@@ -14,7 +14,4 @@ If you have a personal website or a site for your business, you'll need to step 
 
 In the end, sites will have to be better adapted to the mobile environment. For example, if you are using structured data to produce rich snippets on your main site version, you're going to want to add it to your mobile site as well. Today, with responsive design at the helm of modern website creation, a desktop site and mobile site are usually one in the same. Yet, all these sites will have to be retrofitted in some way to ensure that they are _truly_ mobile optimized. We can help make sure your site meets the needs the of mobile user. Contact us now to find out how we can _mobilize_ you! 
 
-We'll update you soon when we hear more news about this gigantic change in the SEO landscape. For now, use the [mobile friendly test](https://www.google.com/webmasters/tools/mobile-friendly/) to see if your site meets G's current mobile standards. 
-
-
-
+We'll update you soon when we hear more news about this gigantic change in the SEO landscape. For now, use the [mobile friendly test](https://www.google.com/webmasters/tools/mobile-friendly/) to see if your site meets G's current mobile standards.
