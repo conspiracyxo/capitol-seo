@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 publish: true
 ---
@@ -16,4 +16,4 @@ Penguin 4.0 seemed to resolve one big problem that occurs in the search optimiza
 Now, it seems that someone could _neg SEO_ a site and trick G into thinking that the site owner is doing it. Theoretically, in this scenario G could devalue all the sites links, even the powerful ones that are maintaining the site's ranking. Obviously, this would send the site into search engine limbo. We suppose the [disavow tool](https://support.google.com/webmasters/answer/2648487?hl=en) could still come in handy here, but who knows to what extent and when. Furthermore, the fact that Penguin 4.0 runs in real time means that your site could get dumped even before you get a chance to react. 
 
 ## Summary
-What we can take from this is that black hat SEO is a real gamble with today's version of Penguin. We also note that webmasters must continually monitor their sites for suspicious activity from unknown sources. We don't know the full story about this yet, but it sure is a wake-up call for anyone concerned about their site's well-being. 
+What we can take from this is that black hat SEO is a real gamble with today's version of Penguin. We also note that webmasters must continually monitor their sites for suspicious activity from unknown sources. We don't know the full story about this yet, but it sure is a wake-up call for anyone concerned about their site's well-being.
