@@ -10,4 +10,6 @@ Now that a little time has passed we are learning what Penguin is really about. 
 So far it is unclear whether the "mass devaluation" will occur on the affected url or the site as a whole. Either way, it is a scary thing to think about. 
 
 ## The Invitation to Negative SEO
-Penguin 4.0 seemed to resolve one big problem that occurs in the search optimization field: negative SEO. This concept involves one competitor intentionally spamming the site of another in order to 
+Penguin 4.0 seemed to resolve one big problem that occurs in the search optimization field: negative SEO. This concept involves one competitor intentionally spamming the site of another in order to prompt a penalty. Doing so would basically get the competition out of the way so that one's site could occupy a higher position in the rankings. Penguin 4.0's use of devaluation instead of demotion made it a lot harder to _neg SEO_ someone because the extra links would basically be valueless instead of penalty inducing. 
+
+Now, it seems that someone could _neg SEO_ a site and trick G into thinking that the site owner is doing it. Theoretically, in this scenario G could devalue all the sites links, even the powerful ones that are maintaining the site's ranking. Obviously, this would send the site into search engine limbo. We suppose the [disavow tool](https://support.google.com/webmasters/answer/2648487?hl=en) could still come in handy here, but who knows to what extent and when. 
