@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Services
-permalink: /service/
+permalink: /sacramento-seo-service/
 feature-img: "img/sample_feature_img_3.png"
 ---
 
